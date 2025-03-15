@@ -20,8 +20,6 @@ Para avaliar a qualidade da imagem comprimida e o nível de compressão:
 
 PSNR (Peak Signal-to-Noise Ratio) - Medido em dB.
 
-MSE é o erro quadrático médio entre a imagem original e a comprimida.
-
 E a Taxa de Compressão - Medido em x:
 
 A taxa de compressão indica quantas vezes a imagem foi comprimida. Quanto maior a taxa, maior a compressão.
