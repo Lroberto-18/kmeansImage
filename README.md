@@ -25,3 +25,5 @@ MSE é o erro quadrático médio entre a imagem original e a comprimida.
 E a Taxa de Compressão - Medido em x:
 
 A taxa de compressão indica quantas vezes a imagem foi comprimida. Quanto maior a taxa, maior a compressão.
+
+![Figure_1](https://github.com/user-attachments/assets/26083926-74ba-44fc-9650-f67304efa65b)
